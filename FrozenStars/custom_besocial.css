@@ -1,3 +1,15 @@
+/**
+ * @package Frozen Stars custom css file for ElkArte
+ * @author Thorsten Eurich
+ * @copyright (c) 2014 Thorsten Eurich
+ * @license This Source Code is subject to the terms of the Mozilla Public License
+ * version 1.1 (the "License"). You can obtain a copy of the License at
+ * http://mozilla.org/MPL/1.1/.
+ *
+ * @version 1.0
+ *
+ */
+
 /* Normal, standard links. */
 a, a:link, a:visited,
 /* Links that open in a new window. */
